@@ -1,0 +1,4 @@
+product=dmed
+path=c:/ti/ccsv6/tools/compiler/dmed
+parserxml=c:/ti/ccsv6/tools/compiler/dmed/dmed.xml
+            
